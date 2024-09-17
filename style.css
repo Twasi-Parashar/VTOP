@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+}
+
+#top{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#logo{
+    background-image: url(logo.png);
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+}
+#name{
+    color: #f8f9fa;
+    font-size: 32px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+#campus{
+    margin-left: 10px;
+    font-size: 14px;
+    color: #f8f9fa;
+}
+
+#vtop-details{
+    width: 753px;
+    height: 102px;
+    margin: 20px 30px 10px 100px;
+}
+#vtop-heading{
+    font-size: 26px;
+    color: #176CB8;
+    text-align: center;
+    font-weight: 600;
+}
+p{
+    color: #212529;
+    text-align: center;
+    font-weight: 700;
+}
+#details{
+    width: 565px;
+    height: 50px;
+    margin-left: 70px;
+}
+.box{
+    width: 158px;
+    height: 88px;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px grey;
+}
+#content-part{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#student{
+    background-color: #0d6efd;
+}
+#employee{
+    background-color: #d4ac04;
+}
+#parent{
+    background-color: #198754;
+}
+#alumini{
+    background-color: #48cee9;
+}
+#b1{
+    width: 158px;
+    height: 87px;
+    margin-top: 4px;
+    background-color: white;
+    
+}
+#b2{
+    width: 158px;
+    height: 87px;
+    margin-top: 4px;
+    background-color: white;
+}
+#b3{
+    width: 158px;
+    height: 87px;
+    margin-top: 4px;
+    background-color: white;
+}
+#b4{
+    width: 158px;
+    height: 87px;
+    margin-top: 4px;
+    background-color: white;
+}
+#spotlight{
+    width: 387px;
+    height: 270px;
+}
+#b-color{
+    background-color: #900c3f;
+    width: 387px;
+    height: 3px;
+}
+#part2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#head{
+    color: #900c3f;
+    font-size: large;
+    font-weight: 400;
+    background-color: whitesmoke;
+}
+.tt{
+    width: 338px;
+    height: 30px;
+    color: #900c3f;
+    border-bottom: 0.5px solid black;
+    margin-top: 5px;
+}
+#hh{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#lk{
+    color: #212529;
+}
+
+footer{
+    width: 100%;
+    height: 21px;
+    position: absolute;
+    bottom: 0px;
+}
+#copyright{
+    height: 21px;
+    background-color: #1657b9;
+    color: #f8f9fa;
+    text-align: center;
+}
+
